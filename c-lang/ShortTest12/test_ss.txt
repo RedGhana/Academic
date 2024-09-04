@@ -1,0 +1,4 @@
+Hello World!!
+I am a student who started learning programming.
+Want to learn about IoT and machine learning. In the future, I would like to develop original robots that will lead the next generation.
+But studying is very hard.
